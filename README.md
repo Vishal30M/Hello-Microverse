@@ -1,103 +1,231 @@
-Microverse README Template
-📗 Table of Contents
-📖 About the Project
-🛠 Built With
-Tech Stack
-Key Features
-🚀 Live Demo
-💻 Getting Started
-Setup
-Prerequisites
-Install
-Usage
-Run tests
-Deployment
-👥 Authors
-🔭 Future Features
-🤝 Contributing
-⭐️ Show your support
-🙏 Acknowledgements
-❓ FAQ (OPTIONAL)
-📝 License
-📖 [Portfolio-Website]
-In this project, I set up a "Portfolio-Website" repository. I used Html and CSS to create this. My goal was to create a mobile version portfolio website.
+<a name="readme-top"></a>
 
-🛠 Built With
-Html CSS
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
 
-Tech Stack
-Html CSS
+Modify this file to match your project and remove sections that don't apply.
 
-Key Features
-[Linters]
-(back to top)
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
 
-🚀 Live Demo
-It's in progress
+OPTIONAL SECTIONS:
+- FAQ
 
-Live Demo Link
-(back to top)
+After you're finished please remove all the comments and instructions!
+-->
 
-💻 Getting Started
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+
+  <h3><b>Microverse README Template</b></h3>
+
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 [Hello-Microverse] <a name="about-project"></a>
+
+> T
+**[Hello-Microverse]** is my first project in microverse. It's a hello world project requiers no complex coding.
+
+## 🛠 Built With <a name="built-with"></a>
+HTML
+CSS
+### Tech Stack <a name="tech-stack"></a>
+HTML
+CSS
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+> Describe between 1-3 key features of the application.
+
+- **[Linters]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+>It's in progress.
+
+- [Live Demo Link](https://google.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+
 To get a local copy up and running, follow these steps.
 
-Prerequisites
-In order to run this project you need:
+### Prerequisites
 
+In order to run this project you need:
 Git, A text editor
 
-Setup
+
+
+### Setup
+
 Clone this repository to your desired folder:
 
-Install
+<!--
+Example commands:
+
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+--->
+
+### Install
+
 Install this project with:
 
 No installation needed
+--->
 
-Usage
+### Usage
+
 To run the project, execute the following command:
 
 index.html
 
-Run tests
+
+### Run tests
+
 To run tests, run the following command:
 
 No test
+### Deployment
 
-Deployment
 You can deploy this project using:
 
 No deployment yet
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-(back to top)
+<!-- AUTHORS -->
 
-👥 Authors
-👤 Vishal Mishra
+## 👥 Authors <a name="authors"></a>
 
-GitHub: @Vishal30M
-Twitter: @Vismiss30
-LinkedIn: vishal-kumar-mishra
-(back to top)
+> Mention all of the collaborators of this project.
 
-🤝 Contributing
+👤 **Vishal Mishra**
+- GitHub: [@Vishal30M](https://github.com/Vishal30M)
+- Twitter: [@Vismiss30](https://twitter.com/Vismiss30)
+- LinkedIn: [vishal-kumar-mishra](https://www.linkedin.com/in/vishal-kumar-mishra-0a5226232/)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+>It's a simple Hello World project, It dosen't requiers any advanced feature.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](../../issues/).
 
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-⭐️ Show your support
-Give a ⭐️ if you like this project!
+<!-- SUPPORT -->
 
-(back to top)
+## ⭐️ Show your support <a name="support"></a>
 
-🙏 Acknowledgments
-Many thanks to Microverse for teaching me all I know about programming. I also want to thank to my Brother Clinton Younge for his help, advice and encouragement to press onward through the tough times.
+> Write a message to encourage readers to support your project
 
-(back to top)
+If you like this project...
 
-📝 License
-This project is MIT licensed.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-(back to top)
+<!-- ACKNOWLEDGEMENTS -->
 
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+
+I would like to thank...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
